@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -23,7 +23,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: zaidnadaf0
+          UTC_OFFSET: "5.5"
+
+      - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

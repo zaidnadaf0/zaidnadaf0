@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaidnadaf0&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Followers-++-blue?style=for-the-badge&logo=github" alt="Followers"/>
 </p>
 
 <p align="center">
@@ -12,11 +11,6 @@
   <a href="https://github.com/zaidnadaf0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:zaidmohammed.nadaf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
----
-
-<!-- Animated wave divider -->
-<img src="https://raw.githubusercontent.com/AndreaVillarreal09/AndreaVillarreal09/main/assets/wave.gif" width="100%" alt="Divider" />
 
 ---
 
@@ -73,16 +67,17 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaidnadaf0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaidnadaf0&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-repos-dark.svg" alt="Repos and stars"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-most-commit-language-dark.svg" alt="Most committed languages"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-productive-time-dark.svg" alt="Productive time"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-profile-details-dark.svg" alt="Profile details"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zaidnadaf0&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph-coral.vercel.app/graph?username=zaidnadaf0&bg_color=0d1117&color=58a6ff&line=38bdf8&point=ff6b6b&area=true&hide_border=true" alt="Contribution graph"/>
 </p>
 
 ---
@@ -95,14 +90,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
   </picture>
-</p>
-
----
-
-### ✍️ Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
 </p>
 
 ---
