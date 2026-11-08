@@ -15,6 +15,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,12 +26,20 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate summary cards
+        id: cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: zaidnadaf0
           UTC_OFFSET: "5.5"
+          AUTO_PUSH: false
+
+      - name: Collect assets
+        run: |
+          mkdir -p dist/assets
+          cp -r profile-summary-card-output/* dist/assets/
+          ls -la dist/assets/
 
       - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
