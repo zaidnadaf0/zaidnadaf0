@@ -73,8 +73,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zaidnadaf0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidnadaf0&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaidnadaf0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaidnadaf0&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidnadaf0&bg_color=0d1117&color=58a6ff&line=38bdf8&point=ff6b6b&area=true&hide_border=true" alt="Contribution graph"/>
+  <img width="90%" src="https://github-readme-activity-graph-coral.vercel.app/graph?username=zaidnadaf0&bg_color=0d1117&color=58a6ff&line=38bdf8&point=ff6b6b&area=true&hide_border=true" alt="Contribution graph"/>
 </p>
 
 ---
