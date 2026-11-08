@@ -67,13 +67,13 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/assets/profile-summary-card-repos-dark.svg" alt="Repos and stars"/>
-  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/assets/profile-summary-card-most-commit-language-dark.svg" alt="Most committed languages"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-repos-dark.svg" alt="Repos and stars"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-most-commit-language-dark.svg" alt="Most committed languages"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/assets/profile-summary-card-productive-time-dark.svg" alt="Productive time"/>
-  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/assets/profile-summary-card-profile-details-dark.svg" alt="Profile details"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-productive-time-dark.svg" alt="Productive time"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-profile-details-dark.svg" alt="Profile details"/>
 </p>
 
 <p align="center">

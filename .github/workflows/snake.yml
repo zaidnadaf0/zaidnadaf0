@@ -25,8 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate summary cards
-        id: cards
+      - name: Generate summary cards (dark only)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -34,12 +33,14 @@ jobs:
           USERNAME: zaidnadaf0
           UTC_OFFSET: "5.5"
           AUTO_PUSH: false
+          THEME: dark
 
-      - name: Collect assets
+      - name: Flatten cards into dist
         run: |
-          mkdir -p dist/assets
-          cp -r profile-summary-card-output/* dist/assets/
-          ls -la dist/assets/
+          # The action creates profile-summary-card-output/<theme>/<card>.svg
+          mkdir -p dist
+          find profile-summary-card-output -name "*.svg" -exec cp {} dist/ \;
+          ls -la dist/
 
       - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
