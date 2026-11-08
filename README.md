@@ -67,17 +67,18 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-repos-dark.svg" alt="Repos and stars"/>
-  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-most-commit-language-dark.svg" alt="Most committed languages"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/0-profile-details.svg" alt="Profile details"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/3-stats.svg" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-productive-time-dark.svg" alt="Productive time"/>
-  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/profile-summary-card-profile-details-dark.svg" alt="Profile details"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/1-repos-per-language.svg" alt="Repos per language"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/2-most-commit-language.svg" alt="Most committed languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zaidnadaf0&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub streak"/>
+  <img height="170" src="https://raw.githubusercontent.com/zaidnadaf0/zaidnadaf0/output/4-productive-time.svg" alt="Productive time"/>
+  <img src="https://streak-stats.demolab.com?user=zaidnadaf0&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="170" alt="GitHub streak"/>
 </p>
 
 ---
